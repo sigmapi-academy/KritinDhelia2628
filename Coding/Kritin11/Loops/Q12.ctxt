@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Q12
+comment0.text=\r\n\ A\ prime\ number\ is\ said\ to\ be\ Twisted\ Prime",\ if\ the\ new\ number\ obtained\r\n\ reversing\ the\ digts\ is\ also\ a\ prime\ number.\ \r\n\ Write\ a\ program\ to\ accept\ a\ number\ and\ check\ whether\ the\ number\r\n\ is\ 'Twisted\ Prime'\ or\ not.\ \r\n\ Sample\ Input\:\ 167\ \r\n\ Sample\ Output\:\ 761\ \r\n\ 167\ is\ a\ Twisted\ Prime.\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x
+comment1.target=boolean\ isPrime(int)
+comment2.params=x
+comment2.target=int\ reverse(int)
+comment3.params=x
+comment3.target=boolean\ isTwistedPrime(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
