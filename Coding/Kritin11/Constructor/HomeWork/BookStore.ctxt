@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BookStore
+comment0.text=\r\n\ Write\ a\ demo\ program\ that\ creates\ several\ books\ using\ different\ constructors\ and\ prints\ all\ information.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

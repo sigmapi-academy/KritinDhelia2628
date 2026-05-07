@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ \t1.\ Custom\ Constructors\ &\ Object\ TrackingCreate\ a\ class\ Book\ that\ stores\ title,\ author,\ price,\ and\ a\ unique\ book\ ID\ \r\n\ \tauto\u2011generated\ for\ each\ new\ object.\r\n\ \tRequirements\:\r\n\ \t\u2022\ Implement\ multiple\ constructors\:\ default,\ one\ with\ title+author,\ and\ one\ with\ all\ fields.\r\n\ \t\u2022\ Maintain\ a\ static\ counter\ that\ increments\ for\ each\ book\ created.\r\n\ \t\u2022\ Add\ a\ method\ applyDiscount(double\ percent).\r\n\ \t\u2022\ Write\ a\ demo\ program\ that\ creates\ several\ books\ using\ different\ constructors\ and\ prints\ all\ information.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=title\ author\ price
+comment1.target=Book(java.lang.String,\ java.lang.String,\ double)
+comment2.params=title\ author
+comment2.target=Book(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=Book()
+comment4.params=percent
+comment4.target=double\ applyDiscount(double)
+comment5.params=t\ a\ p
+comment5.target=void\ input(java.lang.String,\ java.lang.String,\ double)
+comment6.params=p
+comment6.target=void\ setPrice(double)
+comment7.params=
+comment7.target=void\ display()
+comment8.params=
+comment8.target=int\ numberOfBooks()
+numComments=9
