@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Q17a
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Q17a\ here.\r\n\ S\ \=\ 9\ +\ 99\ +\ 8\ +\ 89\ +\ 7\ +\ 79\ +\ ...\ +\ (upto\ n\ terms)\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=void\ seriesSum(int)
+comment1.text=\r\n\ @param\ n\ represents\ number\ of\ terms\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
