@@ -13,10 +13,6 @@ public class Coverersion
         System.out.print("\nBinary equivalent of " + v +" is: " +
         Integer.toBinaryString(v));
         System.out.print("\n?: "+Integer.toUnsignedString(110, 2));
-        
-        System.out.print("\n ??: "+Integer.toString(1101, 16));
-        
-        
-        Integer.to
+        System.out.print("\n ??: "+Integer.toString(1101, 16));    
     }
 }
