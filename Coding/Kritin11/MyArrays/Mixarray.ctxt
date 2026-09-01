@@ -1,0 +1,13 @@
+#BlueJ class context
+#Tue Sep 01 06:20:32 IST 2026
+comment0.target=Mixarray
+comment0.text=\r\n Write a description of class Mixarray here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=mm
+comment1.target=Mixarray(int)
+comment2.target=void input()
+comment3.params=P Q
+comment3.target=Mixarray mix(Mixarray, Mixarray)
+comment4.target=void display()
+comment5.params=args
+comment5.target=void main(java.lang.String[])
+numComments=6
